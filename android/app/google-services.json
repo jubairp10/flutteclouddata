@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512604174918",
+    "project_id": "cloudstorage-2050a",
+    "storage_bucket": "cloudstorage-2050a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512604174918:android:50a5716a3cf9578d7b6847",
+        "android_client_info": {
+          "package_name": "com.example.flutteclouddata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAruhVCCom-Vj3_HBJWsDYw2jiwhDwH4Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
